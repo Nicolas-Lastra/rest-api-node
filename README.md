@@ -36,6 +36,7 @@ API Rest con Express, proyecto desarrollado con motivos de aprendizaje, seguimie
     "extends": "standard"
   }
   - Remover los "^" al inicio de las versiones
+  - agregar dentro de "scripts": "start": "node app.js"
 
 ### Ejecución:
   - node --watch ./app.js
